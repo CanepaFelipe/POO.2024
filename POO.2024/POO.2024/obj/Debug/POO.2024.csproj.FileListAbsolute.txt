@@ -1,0 +1,7 @@
+C:\Users\usuario\OneDrive\Escritorio\POO.2024\POO.2024\POO.2024\obj\Debug\POO.2024.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\POO.2024\POO.2024\POO.2024\obj\Debug\POO.2024.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\POO.2024\POO.2024\POO.2024\bin\Debug\POO.2024.exe.config
+C:\Users\usuario\OneDrive\Escritorio\POO.2024\POO.2024\POO.2024\bin\Debug\POO.2024.exe
+C:\Users\usuario\OneDrive\Escritorio\POO.2024\POO.2024\POO.2024\bin\Debug\POO.2024.pdb
+C:\Users\usuario\OneDrive\Escritorio\POO.2024\POO.2024\POO.2024\obj\Debug\POO.2024.exe
+C:\Users\usuario\OneDrive\Escritorio\POO.2024\POO.2024\POO.2024\obj\Debug\POO.2024.pdb

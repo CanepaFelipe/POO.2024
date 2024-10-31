@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\carritodecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\carritodecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\bibloteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\bibloteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|c:\\users\\usuario\\onedrive\\escritorio\\poo.2024\\poo.2024\\poo.2024\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CADB747-40F7-47F6-A1D8-B8910186FE57}|POO.2024\\POO.2024.csproj|solutionrelative:poo.2024\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Direccion.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Direccion.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Direccion.cs",
+              "RelativeToolTip": "POO.2024\\Direccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:02:32.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "POO.2024\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\CuentaBancaria.cs",
+              "RelativeToolTip": "POO.2024\\CuentaBancaria.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:02:08.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Casa.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Casa.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Casa.cs",
+              "RelativeToolTip": "POO.2024\\Casa.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:01:53.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarritoDeCompras.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\CarritoDeCompras.cs",
+              "RelativeDocumentMoniker": "POO.2024\\CarritoDeCompras.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\CarritoDeCompras.cs",
+              "RelativeToolTip": "POO.2024\\CarritoDeCompras.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:01:37.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bibloteca.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Bibloteca.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Bibloteca.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Bibloteca.cs",
+              "RelativeToolTip": "POO.2024\\Bibloteca.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:01:04.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Empleado.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Empleado.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Empleado.cs",
+              "RelativeToolTip": "POO.2024\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:03:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Libro.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Libro.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Libro.cs",
+              "RelativeToolTip": "POO.2024\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:03:39.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Persona.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Persona.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Persona.cs",
+              "RelativeToolTip": "POO.2024\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:03:56.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Producto.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Producto.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Producto.cs",
+              "RelativeToolTip": "POO.2024\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:04:07.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Socio.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Socio.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Socio.cs",
+              "RelativeToolTip": "POO.2024\\Socio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:04:21.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Estudiante.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Estudiante.cs",
+              "RelativeToolTip": "POO.2024\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:02:53.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Program.cs",
+              "RelativeDocumentMoniker": "POO.2024\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\POO.2024\\POO.2024\\POO.2024\\Program.cs",
+              "RelativeToolTip": "POO.2024\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:51:57.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
